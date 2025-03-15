@@ -10,12 +10,6 @@
   🎓 Étudiant en L3 MIAGE à IDMC - Université de Lorraine, passionné par le développement web et l’analyse de données.
 </p>
 
-<!-- Logos IDMC et Université de Lorraine -->
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.linkedin.com%2Fschool%2Fidmc-nancy%2F&psig=AOvVaw24KpGWNrhJkcuxpPgwAxRK&ust=1742085637951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjD-PHsiowDFQAAAAAdAAAAABAY" alt="IDMC" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ALogo_Universit%25C3%25A9_de_Lorraine.svg&psig=AOvVaw3_MZg54KDRezl5_OQVBUU_&ust=1742085733403000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDOkJztiowDFQAAAAAdAAAAABAE" alt="Université de Lorraine" width="50"/>
-</p>
-
 ---
 
 ## 🧐 À propos de moi 
