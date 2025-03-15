@@ -12,8 +12,8 @@
 
 <!-- Logos IDMC et Université de Lorraine -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fformations.univ-lorraine.fr%2F34__idmc&psig=AOvVaw01Aa2OLo1CJam9awK2OfXw&ust=1742085292875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjOucvriowDFQAAAAAdAAAAABAd" alt="IDMC" width="50" style="margin-right: 10px;"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FUnivLorraine%2F%3Flocale%3Dfr_FR&psig=AOvVaw2QA5XaFfTDKyGpJFIZENMC&ust=1742085358784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNja8unriowDFQAAAAAdAAAAABAE" alt="Université de Lorraine" width="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.linkedin.com%2Fschool%2Fidmc-nancy%2F&psig=AOvVaw24KpGWNrhJkcuxpPgwAxRK&ust=1742085637951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjD-PHsiowDFQAAAAAdAAAAABAY" alt="IDMC" width="50" style="margin-right: 10px;"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ALogo_Universit%25C3%25A9_de_Lorraine.svg&psig=AOvVaw3_MZg54KDRezl5_OQVBUU_&ust=1742085733403000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDOkJztiowDFQAAAAAdAAAAABAE" alt="Université de Lorraine" width="50"/>
 </p>
 
 ---
