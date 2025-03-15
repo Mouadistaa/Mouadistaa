@@ -7,7 +7,13 @@
 </p>
 
 <p align="center">
-  🎓 Étudiant en L3 MIAGE à l'Université de Lorraine, passionné par le développement web et l’analyse de données.
+  🎓 Étudiant en L3 MIAGE à IDMC - Université de Lorraine, passionné par le développement web et l’analyse de données.
+</p>
+
+<!-- Logos IDMC et Université de Lorraine -->
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fformations.univ-lorraine.fr%2F34__idmc&psig=AOvVaw01Aa2OLo1CJam9awK2OfXw&ust=1742085292875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjOucvriowDFQAAAAAdAAAAABAd" alt="IDMC" width="50" style="margin-right: 10px;"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FUnivLorraine%2F%3Flocale%3Dfr_FR&psig=AOvVaw2QA5XaFfTDKyGpJFIZENMC&ust=1742085358784000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNja8unriowDFQAAAAAdAAAAABAE" alt="Université de Lorraine" width="50"/>
 </p>
 
 ---
